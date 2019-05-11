@@ -11,8 +11,10 @@ public class Bank {
     abstract class Account
 {
 
+private String client;
+private int number;
 
 
-        }
 
-# Bank
+    }
+
